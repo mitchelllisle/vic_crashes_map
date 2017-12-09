@@ -1,0 +1,12 @@
+name: traffic_incidents_vic
+title: traffic_incidents_vic
+username:
+account: mitchelllisle
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246462
+bundleId: 1124245
+url: https://mitchelllisle.shinyapps.io/traffic_incidents_vic/
+when: 1512789005.81158
+asMultiple: FALSE
+asStatic: FALSE
